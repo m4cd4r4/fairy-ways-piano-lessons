@@ -1,0 +1,35 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Personal notes (if any)
+notes/
+personal/
+private/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.backup
+
+# Log files
+*.log
+
+# Printed PDFs (keep source .md files only)
+# Uncomment if you want to ignore generated PDFs
+# *.pdf
