@@ -19,7 +19,7 @@ This curriculum was originally created for Lucille Aine Ní Mhurchú, a 5-year-o
    - Additional printables
    - Story enhancements
 
-3. **Share Photos/Stories** (with permission)
+3. **Share Stories** (with permission)
    - We'd love to hear about other little fairy music guardians!
 
 ### For Developers/Writers
